@@ -1,0 +1,12 @@
+[
+  {
+    "email": "alejandroepilan@gmail.com",
+    "passwordHash": "$2b$10$uM99flf/ahUPy3.6bkcP0e18sAX0u.V40Bd/GfldQGAhM5wqHap8a",
+    "createdAt": "2026-02-21T07:57:53.972Z"
+  },
+  {
+    "email": "alejandroepilan2@gmail.com",
+    "passwordHash": "$2b$10$T5BmdC6McHdpVUk8a5hIPu6L/K.lf0qC.MaB0fu4FHbUSsmxVoarW",
+    "createdAt": "2026-02-21T08:14:37.954Z"
+  }
+]
